@@ -1,6 +1,7 @@
 {
 	"id": [
-		"A318"
+		"A318",
+		"ACJ318"
 	],
 	"copyFrom": "A319",
 	"numEngines": 2,
@@ -10,7 +11,8 @@
 	"size": 2,
 	"threeStepSize": 1,
 	"displayName": [
-		"A318"
+		"A318",
+		"ACJ318"
 	],
 	"iCAOCode": [
 		"A318"
@@ -19,22 +21,22 @@
 		"Airbus"
 	],
 	"numBuilt": [
-		81
+		81,20
 	],
 	"yearIntroduced": [
-		2003
+		2003,2002
 	],
 	"yearLastProduced": [
-		2013
+		2013,2015
 	],
 	"yearRetired": [
-		2030
+		2030,2035
 	],
 	"capacity_PAX": [
-		107
+		107,14
 	],
 	"exitLimit_PAX": [
-		136
+		136,18
 	],
 	"seatsAbreast": [
 		6
@@ -46,16 +48,16 @@
 		0
 	],
 	"capacityBulkCargo_KG": [
-		5116
+		5116,4116
 	],
 	"range_KM": [
-		5740
+		5740,7800
 	],
 	"speed_KMH": [
 		871
 	],
 	"etops_Minutes": [
-		120
+		120,180
 	],
 	"fuelCapacity_L": [
 		16886
@@ -70,7 +72,7 @@
 		68000
 	],
 	"needStairs": [
-		true
+		true,false
 	],
 	"needPushback": [
 		true
@@ -100,7 +102,7 @@
 		false
 	],
 	"vIP": [
-		false
+		false,true
 	],
 	"combi": [
 		false

@@ -1,0 +1,298 @@
+{
+   "aircraftType":"AN-158",
+   "liveryFileName":"AN158.png",
+   "pixelSize":130,
+   "liveryComponent":[
+	{  
+      "name":"config_exactly_NightWindows (2)_NightWindows (1)__LeftWing_RightWing_LeftTail_exactly_disable",
+      "layerOrder" : 0,
+      "slicePosition" : {
+        "x" : 1,
+        "y" : 1
+      },
+      "sliceSize" : {
+        "x" : 1,
+        "y" : 1
+      },
+      "position" : {
+        "x" : 0,
+        "y" : 0,
+        "z" : 0
+      },
+      "rotation" : 0
+    },
+		        {  
+         "name":"NewLeftWing",
+         "layerOrder":5,
+         "slicePosition":{  
+            "x":1483,
+            "y":706
+         },
+         "sliceSize":{  
+            "x":964,
+            "y":1579
+         },
+         "position":{  
+            "x":1.302,
+            "y":7.3048461538461538461538461538462,
+            "z":0
+         },
+         "flip":{  
+            "x":0,
+            "y":0
+         },
+         "rotation":0
+      },
+		        {  
+         "name":"NewRightWing",
+         "layerOrder":5,
+         "slicePosition":{  
+            "x":1483,
+            "y":706
+         },
+         "sliceSize":{  
+            "x":964,
+            "y":1579
+         },
+         "position":{  
+            "x":1.302,
+            "y":-7.3356153846153846153846153846154,
+            "z":0
+         },
+         "flip":{  
+            "x":0,
+            "y":1
+         },
+         "rotation":0
+      },	  
+			{
+      "name": "AN158Lights",
+         "layerOrder":1,
+         "slicePosition":{
+            "x":19,
+            "y":13
+         },
+         "sliceSize":{
+            "x":3358,
+            "y":516
+         }
+      },
+		{
+            "name": "config_exactly_AN158_exactly_makewindow",
+            "layerOrder": 0,
+            "slicePosition": {
+                "x": 1,
+                "y": 1
+            },
+            "sliceSize": {
+                "x": 1,
+                "y": 1
+            },
+            "position": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "rotation": 0
+        },
+	{  
+      "name":"myshadowAN158_config_self_makeshadow",
+      "layerOrder" : 0,
+            "slicePosition":{  
+				"x" : 19,
+				"y" : 694
+			},
+			"sliceSize" : {
+				"x" : 889,
+				"y" : 846
+            },
+            "position":{  
+                "x":-1.6,
+                "y":0.2,
+                "z":0
+            },
+			"scale":{
+			   "x":1,
+               "y":1,
+                "z":1
+			},
+      "rotation" : 0
+    },
+				{  
+            "name":"config_exactly_NightWindows (3)_exactly_moverel",
+            "layerOrder":1,
+            "slicePosition":{  
+                "x":1,
+                "y":1
+            },
+            "sliceSize":{  
+                "x":1,
+                "y":1
+            },
+            "position":{  
+                "x":0.82307,
+                "y":0,
+                "z":0
+            },
+            "flip":{  
+                "x":0,
+                "y":0
+            },
+            "rotation":0
+        },
+				{  
+            "name":"config_exactly_BeconLight_exactly_moverel",
+            "layerOrder":1,
+            "slicePosition":{  
+                "x":1,
+                "y":1
+            },
+            "sliceSize":{  
+                "x":1,
+                "y":1
+            },
+            "position":{  
+                "x":-0.74615384615384615384615384615385,
+                "y":0,
+                "z":0
+            },
+            "flip":{  
+                "x":0,
+                "y":0
+            },
+            "rotation":0
+        },
+				{  
+            "name":"config_exactly_StrobeLightBack_exactly_moverel",
+            "layerOrder":1,
+            "slicePosition":{  
+                "x":1,
+                "y":1
+            },
+            "sliceSize":{  
+                "x":1,
+                "y":1
+            },
+            "position":{  
+                "x":-0.86923076923076923076923076923077,
+                "y":0,
+                "z":0
+            },
+            "flip":{  
+                "x":0,
+                "y":0
+            },
+            "rotation":0
+        },		
+				{  
+            "name":"config_exactly_FuelTruckPaths_Flaps_StrobeLightRight_StarbordLight_Cone_Cone (1)_LandingLight (1)_APU_GPU_TowBarPoint_TaxiLight_Engine1.1_Engine1.2_Engine2.1_Engine2.2_Wing1.1_Wing1.2_Wing2.1_Wing2.2_Front1_Front2_exactly_moverel",
+            "layerOrder":1,
+            "slicePosition":{  
+                "x":1,
+                "y":1
+            },
+            "sliceSize":{  
+                "x":1,
+                "y":1
+            },
+            "position":{  
+                "x":0.8,
+                "y":0.009,
+                "z":0
+            },
+            "flip":{  
+                "x":0,
+                "y":0
+            },
+            "rotation":0
+        },
+				{  
+            "name":"config_exactly_StrobeLightLeft_PortLight_LandingLight_exactly_moverel",
+            "layerOrder":1,
+            "slicePosition":{  
+                "x":1,
+                "y":1
+            },
+            "sliceSize":{  
+                "x":1,
+                "y":1
+            },
+            "position":{  
+                "x":0.8,
+                "y":-0.009,
+                "z":0
+            },
+            "flip":{  
+                "x":0,
+                "y":0
+            },
+            "rotation":0
+        },
+				{  
+            "name":"config_exactly_RightFrontDoor_exactly_moverel",
+            "layerOrder":1,
+            "slicePosition":{  
+                "x":1,
+                "y":1
+            },
+            "sliceSize":{  
+                "x":1,
+                "y":1
+            },
+            "position":{  
+                "x":0.87692307692307692307692307692308,
+                "y":0,
+                "z":0
+            },
+            "flip":{  
+                "x":0,
+                "y":0
+            },
+            "rotation":0
+        },		
+				{  
+            "name":"config_exactly_RightRearDoor_CleaningTruckPaths_exactly_moverel",
+            "layerOrder":1,
+            "slicePosition":{  
+                "x":1,
+                "y":1
+            },
+            "sliceSize":{  
+                "x":1,
+                "y":1
+            },
+            "position":{  
+                "x":-0.59230769230769230769230769230769,
+                "y":0.2,
+                "z":0
+            },
+            "flip":{  
+                "x":0,
+                "y":0
+            },
+            "rotation":0
+        },		
+				{  
+            "name":"config_exactly_LeftFrontDoor_CateringTruckPaths_exactly_moverel",
+            "layerOrder":1,
+            "slicePosition":{  
+                "x":1,
+                "y":1
+            },
+            "sliceSize":{  
+                "x":1,
+                "y":1
+            },
+            "position":{  
+                "x":1.075,
+                "y":0,
+                "z":0
+            },
+            "flip":{  
+                "x":0,
+                "y":0
+            },
+            "rotation":0
+        }		
+   ]
+}

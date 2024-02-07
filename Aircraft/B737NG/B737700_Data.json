@@ -1,7 +1,8 @@
 {
 	"id": [
 		"B737700",
-		"B737700F"
+		"B737700F",
+		"BBJ1"
 	],
 	"copyFrom": "B737800",
 	"numEngines": 2,
@@ -12,7 +13,8 @@
 	"threeStepSize": 1,
 	"displayName": [
 		"B737-700",
-		"B737-700F"
+		"B737-700F",
+		"Boeing Business Jet 1"
 	],
 	"iCAOCode": [
 		"B737"
@@ -22,11 +24,13 @@
 	],
 	"numBuilt": [
 		1116,
-		12
+		12,
+		119
 	],
 	"yearIntroduced": [
 		1996,
-		2017
+		2017,
+		1996
 	],
 	"yearLastProduced": [
 		2020
@@ -36,11 +40,13 @@
 	],
 	"capacity_PAX": [
 		140,
-		0
+		0,
+		8
 	],
 	"exitLimit_PAX": [
 		149,
-		0
+		0,
+		19
 	],
 	"seatsAbreast": [
 		6
@@ -50,23 +56,31 @@
 	],
 	"capacityULDUpperDeck": [
 		0,
-		10
+		10,
+		0
 	],
 	"capacityBulkCargo_KG": [
 		4996,
-		18824
+		18824,
+		4996
 	],
 	"range_KM": [
-		4400
+		4400,
+		4400,
+		11639
 	],
 	"speed_KMH": [
 		838
 	],
 	"etops_Minutes": [
-		120
+		120,
+		120,
+		180
 	],
 	"fuelCapacity_L": [
-		18150
+		18150,
+		18150,
+		26304
 	],
 	"engineType": [
 		"turbofan"
@@ -79,6 +93,7 @@
 	],
 	"needStairs": [
 		true,
+		false,
 		false
 	],
 	"needPushback": [
@@ -109,14 +124,17 @@
 		false
 	],
 	"vIP": [
-		false
+		false,
+		false,
+		true
 	],
 	"combi": [
 		false
 	],
 	"cargo": [
 		false,
-		true
+		true,
+		false
 	],
 	"loud": [
 		false

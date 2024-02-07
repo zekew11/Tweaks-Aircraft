@@ -1,6 +1,7 @@
 {
 	"id": [
-		"B37M"
+		"B37M",
+		"BBJMAX7"
 	],
 	"copyFrom": "B737800",
 	"numEngines": 2,
@@ -10,7 +11,8 @@
 	"size": 3,
 	"threeStepSize": 1,
 	"displayName": [
-		"B737 MAX 7"
+		"B737 MAX 7",
+		"Boeing Business Jet MAX 7"
 	],
 	"iCAOCode": [
 		"B37M"
@@ -19,10 +21,12 @@
 		"Boeing"
 	],
 	"numBuilt": [
-		6
+		6,
+		1
 	],
 	"yearIntroduced": [
-		2017
+		2017,
+		2021
 	],
 	"yearLastProduced": [
 		2040
@@ -31,10 +35,12 @@
 		2050
 	],
 	"capacity_PAX": [
-		156
+		156,
+		8
 	],
 	"exitLimit_PAX": [
-		172
+		172,
+		19
 	],
 	"seatsAbreast": [
 		6
@@ -49,7 +55,8 @@
 		4996
 	],
 	"range_KM": [
-		7130
+		7130,
+		12225
 	],
 	"speed_KMH": [
 		839
@@ -58,7 +65,8 @@
 		180
 	],
 	"fuelCapacity_L": [
-		17996
+		17996,
+		26675
 	],
 	"engineType": [
 		"turbofan"
@@ -70,7 +78,8 @@
 		80286
 	],
 	"needStairs": [
-		true
+		true,
+		false
 	],
 	"needPushback": [
 		true
@@ -100,7 +109,8 @@
 		false
 	],
 	"vIP": [
-		false
+		false,
+		true
 	],
 	"combi": [
 		false

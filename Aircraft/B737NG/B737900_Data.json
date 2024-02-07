@@ -1,7 +1,8 @@
 {
 	"id": [
 		"B737900",
-		"B737900ER"
+		"B737900ER",
+		"BBJ3"
 	],
 	"copyFrom": "B737800",
 	"numEngines": 2,
@@ -12,7 +13,8 @@
 	"threeStepSize": 1,
 	"displayName": [
 		"B737-900",
-		"B737-900ER"
+		"B737-900ER",
+		"Boeing Business Jet 3"		
 	],
 	"iCAOCode": [
 		"B739"
@@ -22,27 +24,32 @@
 	],
 	"numBuilt": [
 		55,
-		495
+		495,
+		7
 	],
 	"yearIntroduced": [
 		2000,
-		2006
+		2006,
+		2002
 	],
 	"yearLastProduced": [
 		2006,
-		2023
+		2023,
+		2006
 	],
 	"yearRetired": [
 		2050
 	],
 	"capacity_PAX": [
 		180,
-		200
+		200,
+		24
 		
 	],
 	"exitLimit_PAX": [
 		189,
-		215
+		215,
+		100
 	],
 	"seatsAbreast": [
 		6
@@ -58,31 +65,37 @@
 	],
 	"range_KM": [
 		6660,
-		6500
+		6500,
+		11575
 	],
 	"speed_KMH": [
 		840
 	],
 	"etops_Minutes": [
-		120
+		120,120,180
 	],
 	"fuelCapacity_L": [
 		18150,
-		20692
+		20692,
+		29056
 	],
 	"engineType": [
 		"turbofan"
 	],
 	"takeoffDistance_M": [
 		2591,
+		2910,
 		2910
 	],
 	"maxTOW_KG": [
 		79016,
-		85124
+		85124,
+		85140
 	],
 	"needStairs": [
-		true
+		true,
+		true,
+		false
 	],
 	"needPushback": [
 		true
@@ -112,7 +125,9 @@
 		false
 	],
 	"vIP": [
-		false
+		false,
+		false,
+		true
 	],
 	"combi": [
 		false

@@ -1,7 +1,8 @@
 {
     "id": [
 	"E190",
-	"E190F"
+	"E190F",
+	"LINEAGE1000"
 	],
     "copyFrom": "E190",
     "numEngines": 2,
@@ -12,29 +13,29 @@
     "threeStepSize": 1,
     "displayName": [
 	"E190",
-	"E190F"
-	
+	"E190F",
+	"Lineage 1000"
 	],
     "iCAOCode": ["E190"],
     "manufacturer": ["Embraer"],
-    "numBuilt": [568,10],
-    "yearIntroduced": [2002,2022],
-    "yearLastProduced": [2025,2035],
-    "yearRetired": [2040,2045],
-    "capacity_PAX": [96,0],
-    "exitLimit_PAX": [114,0],
+    "numBuilt": [568,10,28],
+    "yearIntroduced": [2002,2022,2009],
+    "yearLastProduced": [2025,2035,2035],
+    "yearRetired": [2040,2045,2050],
+    "capacity_PAX": [96,0,13],
+    "exitLimit_PAX": [114,0,19],
     "seatsAbreast": [4],
     "capacityULDLowerDeck": [0],
     "capacityULDUpperDeck": [0],
-    "capacityBulkCargo_KG": [3453,10700],
-    "range_KM": [4537],
-    "speed_KMH": [829],
-    "etops_Minutes": [90],
-    "fuelCapacity_L": [11267],
+    "capacityBulkCargo_KG": [3453,10700,2453],
+    "range_KM": [4537,4537,8500],
+    "speed_KMH": [829,829,874],
+    "etops_Minutes": [90,90,120],
+    "fuelCapacity_L": [11267,11267,12204],
     "engineType": ["turbofan"],
     "takeoffDistance_M": [2100],
-    "maxTOW_KG": [51800],
-    "needStairs": [true],
+    "maxTOW_KG": [51800,51800,54500],
+    "needStairs": [true,true,false],
     "needPushback": [true],
     "needPaved": [true],
     "needHeavyPaved": [false],
@@ -44,9 +45,9 @@
     "cleaningPoints": [1],
     "cateringPoints": [1],
     "sonicBoom": [false],
-    "vIP": [false],
+    "vIP": [false,false,true],
     "combi": [false],
-    "cargo": [false,true],
+    "cargo": [false,true,false],
     "loud": [false],
     "quiet": [true]
 }

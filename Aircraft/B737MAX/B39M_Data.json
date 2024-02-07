@@ -1,6 +1,7 @@
 {
 	"id": [
-		"B39M"
+		"B39M",
+		"BBJMAX9"
 	],
 	"copyFrom": "B737800",
 	"numEngines": 2,
@@ -10,7 +11,8 @@
 	"size": 2,
 	"threeStepSize": 1,
 	"displayName": [
-		"B737 MAX 9"
+		"B737 MAX 9",
+		"Boeing Business Jet MAX 9"		
 	],
 	"iCAOCode": [
 		"B39M"
@@ -19,10 +21,12 @@
 		"Boeing"
 	],
 	"numBuilt": [
-		589
+		589,
+		2
 	],
 	"yearIntroduced": [
-		2017
+		2017,
+		2020
 	],
 	"yearLastProduced": [
 		2050
@@ -31,10 +35,12 @@
 		2050
 	],
 	"capacity_PAX": [
-		193
+		193,
+		24
 	],
 	"exitLimit_PAX": [
-		220
+		220,
+		100
 	],
 	"seatsAbreast": [
 		6
@@ -49,7 +55,8 @@
 		6654
 	],
 	"range_KM": [
-		6658
+		6658,
+		11770
 	],
 	"speed_KMH": [
 		838
@@ -58,7 +65,8 @@
 		120
 	],
 	"fuelCapacity_L": [
-		17996
+		17996,
+		28806
 	],
 	"engineType": [
 		"turbofan"
@@ -70,7 +78,8 @@
 		88314
 	],
 	"needStairs": [
-		true
+		true,
+		false
 	],
 	"needPushback": [
 		true
@@ -100,7 +109,8 @@
 		false
 	],
 	"vIP": [
-		false
+		false,
+		true
 	],
 	"combi": [
 		false

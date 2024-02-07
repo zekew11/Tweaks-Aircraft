@@ -1,7 +1,8 @@
 {
     "id": [
 	"B737800",
-	"B737800BCF"
+	"B737800BCF",
+	"BBJ2"
 	],
     "copyFrom": "B737800",
     "numEngines": 2,
@@ -12,24 +13,29 @@
     "threeStepSize": 1,
     "displayName": [
 	"B737-800",
-	"B737-800BCF"
+	"B737-800BCF",
+	"Boeing Business Jet 2"
 	],
     "iCAOCode": ["B738"],
     "manufacturer": ["Boeing"],
     "numBuilt": [
 	4989,
-	350
+	350,
+	24
 	],
-    "yearIntroduced": [1997],
+    "yearIntroduced": [1997,1997,2002],
     "yearLastProduced": [2020],
-    "yearRetired": [2035],
+    "yearRetired": [2035,2035,2040],
     "capacity_PAX": [
 	160,
-	0
+	0,
+	24
+	
 	],
     "exitLimit_PAX": [
 	189,
-	0
+	0,
+	78
 	],
     "seatsAbreast": [
 	6
@@ -37,20 +43,22 @@
     "capacityULDLowerDeck": [0],
     "capacityULDUpperDeck": [
 	0,
-	11
+	11,
+	0
 	],
     "capacityBulkCargo_KG": [5000],
     "range_KM": [
 	5436,
-	3695
+	3695,
+	10186
 	],
     "speed_KMH": [842],
-    "etops_Minutes": [120],
-    "fuelCapacity_L": [18150],
+    "etops_Minutes": [120,120,180],
+    "fuelCapacity_L": [18150,18150,26304],
     "engineType": ["turbofan"],
     "takeoffDistance_M": [2377.44],
     "maxTOW_KG": [79016],
-    "needStairs": [true],
+    "needStairs": [true,false,false],
     "needPushback": [true],
     "needPaved": [true],
     "needHeavyPaved": [false],
@@ -60,11 +68,12 @@
     "cleaningPoints": [1],
     "cateringPoints": [1],
     "sonicBoom": [false],
-    "vIP": [false],
+    "vIP": [false,false,true],
     "combi": [false],
     "cargo": [
 	false,
-	true
+	true,
+	false
 	],
     "loud": [false],
     "quiet": [false]
