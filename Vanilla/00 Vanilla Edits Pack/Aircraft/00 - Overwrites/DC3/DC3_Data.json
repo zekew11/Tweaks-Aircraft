@@ -8,6 +8,7 @@
 	"length_M": 19.7,
 	"size": 6,
 	"threeStepSize": 0,
+	"forcedReScale" : 0.9981,	
 	"displayName": [
 		"DC-3","DC-3 Combi","DC-3 Cargo","Li-2"
 	],

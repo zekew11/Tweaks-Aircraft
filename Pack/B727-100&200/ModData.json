@@ -1,1 +1,11 @@
-{"id":"","publishedFileId":,"name":"727 Pack","description":"","author":"zekew11","version":"0","iconFileName":"Logo.png","modType":"","tags":["Tweaks"]}
+{
+    "id": "c22ce1f2-4c39-4499-a515-d5e98cd4b5b1",
+    "publishedFileId": 3285193502,
+    "name": "Aircraft Pack: B727 Series",
+    "description": "Brings the B727-100 / B727-200 / B727-200Adv / B727-200F to ACEO. Not functional without ACEOTweaks-Core and ACEOTweaks-Aircraft. These B727s will only spawn from airline mods which include them.",
+    "author": "zekew11",
+    "version": "0",
+    "iconFileName": "Logo.png",
+    "modType": "",
+    "tags": ["Tweaks"]
+}

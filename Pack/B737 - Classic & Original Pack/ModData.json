@@ -1,1 +1,11 @@
-{"id":"","publishedFileId":,"name":"Classic 737 Pack","description":"","author":"zekew11,dawed","version":"0","iconFileName":"Logo.png","modType":"","tags":["Tweaks"]}
+{
+    "id": "830a50d8-303c-4bde-a1e5-d147d1afee57",
+    "publishedFileId": 3285208222,
+    "name": "Aircraft Pack: B737 Original & Classic Series",
+    "description": "Brings the B737-100/200/200C and B737-300/300QC/300F/400/400SF/500 to ACEO. Not functional without ACEOTweaks-Core and ACEOTweaks-Aircraft. These B737s will only spawn from airline mods which include them.",
+    "author": "zekew11, dawed",
+    "version": "0",
+    "iconFileName": "Logo.png",
+    "modType": "",
+    "tags": ["Tweaks"]
+}

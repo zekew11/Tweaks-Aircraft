@@ -1,0 +1,136 @@
+{
+	"id": [
+		"DC861",
+		"DC871",
+		"DC861F",
+		"DC871F"		
+	],
+	"copyFrom": "B707320",
+	"numEngines": 4,
+	"wingSpan_M": 45.2,
+	"length_M": 48,
+	"forcedReScale": 1.103,
+	"size": 4,
+	"threeStepSize": 2,
+	"displayName": [
+		"DC-8-61",
+		"DC-8-71",
+		"DC-8-61F",
+		"DC-8-71F"		
+	],
+	"iCAOCode": [
+		"DC86",
+		"DC87",
+		"DC86",
+		"DC87"		
+	],
+	"manufacturer": [
+		"McDonnell Douglas",
+		"McDonnell Douglas / Cammacorp",
+		"McDonnell Douglas",
+		"McDonnell Douglas / Cammacorp"		
+	],
+	"numBuilt": [
+		78,44,10,20
+	],
+	"yearIntroduced": [
+		1967,
+		1982,
+		1967,
+		1982		
+	],
+	"yearLastProduced": [],
+	"yearRetired": [],
+	"capacity_PAX": [
+		259,259,0,0
+	],
+	"exitLimit_PAX": [],
+	"seatsAbreast": [
+		6
+	],
+	"capacityULDLowerDeck": [
+		0,0,20,20
+	],
+	"capacityULDUpperDeck": [
+		0
+	],
+	"capacityBulkCargo_KG": [],
+	"range_KM": [
+		5900,
+		6500,
+		5900,
+		6500		
+	],
+	"speed_KMH": [
+		895
+	],
+	"etops_Minutes": [
+		360
+	],
+	"fuelCapacity_L": [
+		41469
+	],
+	"engineType": [
+		"low_turbofan",
+		"turbofan",
+		"low_turbofan",
+		"turbofan"		
+	],
+	"takeoffDistance_M": [
+		3048,
+		2770,
+		3048,
+		2770		
+	],
+	"maxTOW_KG": [
+		147400,147400,148800,148800
+	],
+	"needStairs": [
+		true
+	],
+	"needPushback": [
+		true
+	],
+	"needPaved": [
+		true
+	],
+	"needHeavyPaved": [
+		false
+	],
+	"canGetPushback": [
+		true
+	],
+	"jetbridgePoints": [
+		1
+	],
+	"conveyerPoints": [
+		1
+	],
+	"cleaningPoints": [
+		1
+	],
+	"cateringPoints": [
+		1
+	],
+	"sonicBoom": [
+		false
+	],
+	"vIP": [
+		false
+	],
+	"combi": [
+		false
+	],
+	"cargo": [
+		false,false,true,true
+	],
+	"loud": [
+		true,
+		false,
+		true,
+		false		
+	],
+	"quiet": [
+		false
+	]
+}

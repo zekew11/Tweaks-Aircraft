@@ -253,7 +253,7 @@
             "rotation":0
         },
 		{  
-            "name":"config_exactly_LeftFrontDoor_exactly_moverel",
+            "name":"config_exactly_LeftFrontDoor_CateringTruckPaths_exactly_moverel",
             "layerOrder":1,
             "slicePosition":{  
                 "x":1,

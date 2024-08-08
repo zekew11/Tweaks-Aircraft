@@ -1,0 +1,107 @@
+{
+	"id": [
+		"DC840","DC843","DC843F"
+	],
+	"copyFrom": "B707320",
+	"numEngines": 4,
+	"wingSpan_M": 43.4,
+	"length_M": 45.9,
+	"forcedReScale" : 1.114,
+	"size": 4,
+	"threeStepSize": 2,
+	"displayName": [
+		"DC-8-40","DC-8-43","DC-8-43F"
+	],
+	"iCAOCode": [
+		"DC84"
+	],
+	"manufacturer": [
+		"Douglas Aircraft Company"
+	],
+	"numBuilt": [
+		32,32,2
+	],
+	"yearIntroduced": [
+		1960
+	],
+	"yearLastProduced": [],
+	"yearRetired": [],
+	"capacity_PAX": [
+		177,177,0
+	],
+	"exitLimit_PAX": [],
+	"seatsAbreast": [
+		6
+	],
+	"capacityULDLowerDeck": [
+		0,0,18
+	],
+	"capacityULDUpperDeck": [
+		0
+	],
+	"capacityBulkCargo_KG": [],
+	"range_KM": [
+		9830,7800,7800
+	],
+	"speed_KMH": [
+		895
+	],
+	"etops_Minutes": [
+		360
+	],
+	"fuelCapacity_L": [
+		41468
+	],
+	"engineType": [
+		"low_turbofan"
+	],
+	"takeoffDistance_M": [],
+	"maxTOW_KG": [
+		142900
+	],
+	"needStairs": [
+		true
+	],
+	"needPushback": [
+		true
+	],
+	"needPaved": [
+		true
+	],
+	"needHeavyPaved": [
+		false
+	],
+	"canGetPushback": [
+		true
+	],
+	"jetbridgePoints": [
+		1
+	],
+	"conveyerPoints": [
+		1
+	],
+	"cleaningPoints": [
+		1
+	],
+	"cateringPoints": [
+		1
+	],
+	"sonicBoom": [
+		false
+	],
+	"vIP": [
+		false
+	],
+	"combi": [
+		false
+	],
+	"cargo": [
+		false,false, true
+	],
+	"loud": [
+		true
+	],
+	"quiet": [
+		false
+	]
+}

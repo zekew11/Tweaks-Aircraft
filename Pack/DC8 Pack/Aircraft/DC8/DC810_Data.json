@@ -1,0 +1,107 @@
+{
+	"id": [
+		"DC810","DC820","DC830","DC820F","DC830F"
+	],
+	"copyFrom": "B707320",
+	"numEngines": 4,
+	"wingSpan_M": 43.4,
+	"length_M": 45.9,
+	"forcedReScale" : 1.114,
+	"size": 4,
+	"threeStepSize": 2,
+	"displayName": [
+		"DC-8-10","DC-8-20","DC-8-30","DC8-20-F","DC-8-30F"
+	],
+	"iCAOCode": [
+		"DC81","DC82","DC83","DC82","DC83"
+	],
+	"manufacturer": [
+		"Douglas Aircraft Company"
+	],
+	"numBuilt": [
+		29,34,57,10,28
+	],
+	"yearIntroduced": [
+		1959,1960,1960,1960
+	],
+	"yearLastProduced": [],
+	"yearRetired": [],
+	"capacity_PAX": [
+		177,177,177,0,0
+	],
+	"exitLimit_PAX": [],
+	"seatsAbreast": [
+		6
+	],
+	"capacityULDLowerDeck": [
+		0,0,0,16,16
+	],
+	"capacityULDUpperDeck": [
+		0
+	],
+	"capacityBulkCargo_KG": [],
+	"range_KM": [
+		6960,7500,7417,7500,7417
+	],
+	"speed_KMH": [
+		895
+	],
+	"etops_Minutes": [
+		360
+	],
+	"fuelCapacity_L": [
+		31110,31110,41468,31110,41468
+	],
+	"engineType": [
+		"turbojet"
+	],
+	"takeoffDistance_M": [],
+	"maxTOW_KG": [
+		123800,125200,142900,125200,142900
+	],
+	"needStairs": [
+		true
+	],
+	"needPushback": [
+		true
+	],
+	"needPaved": [
+		true
+	],
+	"needHeavyPaved": [
+		false
+	],
+	"canGetPushback": [
+		true
+	],
+	"jetbridgePoints": [
+		1
+	],
+	"conveyerPoints": [
+		1
+	],
+	"cleaningPoints": [
+		1
+	],
+	"cateringPoints": [
+		1
+	],
+	"sonicBoom": [
+		false
+	],
+	"vIP": [
+		false
+	],
+	"combi": [
+		false
+	],
+	"cargo": [
+		false,false,false,true,true
+	],
+	"loud": [
+		true
+	],
+	"quiet": [
+		false
+	]
+}
