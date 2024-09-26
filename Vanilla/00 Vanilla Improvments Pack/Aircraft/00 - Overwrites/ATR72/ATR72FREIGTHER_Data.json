@@ -34,7 +34,7 @@
     "canGetPushback": [true],
     "jetbridgePoints": [0],
     "conveyerPoints": [0],
-    "cleaningPoints": [1],
+    "cleaningPoints": [0],
     "cateringPoints": [0],
     "sonicBoom": [false],
     "vIP": [false],

@@ -1,0 +1,11 @@
+{
+    "id": "",
+    "publishedFileId": 0,
+    "name": "Aircraft Pack: BAC 1-11 Series",
+    "description": "Brings the BAC 1-11 200/300/400/500 to ACEO. Not functional without ACEOTweaks-Core and ACEOTweaks-Aircraft. These B727s will only spawn from airline mods which include them.",
+    "author": "faebue/dawed",
+    "version": "0",
+    "iconFileName": "Logo.png",
+    "modType": "",
+    "tags": ["Aircraft"]
+}

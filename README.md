@@ -19,7 +19,37 @@ Aircraft Pack For Use With ACEO Tweaks
     * -200
     * -200 Advanced
     * -200F
+* BAC 1-11 
+    * -200
+    * -300
+    * -400
+    * -400F
+    * -500	
 * Comac C919
+* DC8 Family
+    * -10
+    * -20
+		* -20F
+    * -30
+		* -30F
+    * -40
+    * -43
+		* -43F
+    * -50
+		* -54F
+    * -55
+    * -61
+		* -61F   
+    * -62
+		* -62F
+    * -63
+		* -63F
+    * -71
+		* -71F   
+    * -72
+		* -72F
+    * -73
+		* -73F     
 * DC10
 	* 10F
 * Dornier 328 Family
@@ -31,6 +61,12 @@ Aircraft Pack For Use With ACEO Tweaks
     * ERJ 140
     * ERJ 145
     * ERJ 145XR
+* JU52 Family
+	* JU52/m1
+	* JU52/m3
+	* Amiot AAC.1
+	* Casa C-352
+	* Casa C-352L
 * Pilatus PC6	
 
 ### New Variants
