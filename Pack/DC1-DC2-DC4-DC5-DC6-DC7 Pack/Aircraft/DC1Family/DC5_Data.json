@@ -1,5 +1,6 @@
 {
 	"id": ["DC5"],
+	"isGeneralAviation": [true],	
 	"copyFrom": "DC3",
 	"numEngines": 2,
 	"wingSpan_M": 24,

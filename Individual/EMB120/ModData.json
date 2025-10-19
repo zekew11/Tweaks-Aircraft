@@ -1,0 +1,11 @@
+{
+    "id": "78533f1b-0714-4228-af59-e50635848e9a",
+    "publishedFileId": 0,
+    "name": "Aircraft Pack: Embraer EMB 120 Brasilia",
+    "description": "Brings the Embraer EMB 120 Brasilia to ACEO. Not functional without ACEOTweaks-Core and ACEOTweaks-Aircraft. These EMB120 will only spawn from airline mods which include it.",
+    "author": "dawed",
+    "version": "0",
+    "iconFileName": "Logo.png",
+    "modType": "",
+    "tags": ["Aircraft"]
+}

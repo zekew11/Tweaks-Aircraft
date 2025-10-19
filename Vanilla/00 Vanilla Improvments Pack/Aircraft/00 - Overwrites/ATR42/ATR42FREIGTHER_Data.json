@@ -48,7 +48,7 @@
     "jetbridgePoints": [0],
     "conveyerPoints": [0],
     "cleaningPoints": [0],
-    "cateringPoints": [0],
+    "cateringPoints": [1],
     "sonicBoom": [false],
     "vIP": [false],
     "combi": [false],

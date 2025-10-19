@@ -2,6 +2,7 @@
 	"id": [
 		"FORDTRI"
 	],
+	"isGeneralAviation": [true],			
 	"copyFrom": "FORDTRI",
 	"numEngines": 3,
 	"wingSpan_M": 22.56,

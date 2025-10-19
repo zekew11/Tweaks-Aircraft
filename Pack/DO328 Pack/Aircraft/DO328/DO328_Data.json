@@ -1,7 +1,9 @@
 {
     "id": [
-	"DO328"
+	"DO328",
+	"DO328GA"
 	],
+	"isGeneralAviation": [false,true],		
     "copyFrom": "ATR42",
     "numEngines": 2,
     "wingSpan_M": 20.98,
@@ -10,7 +12,8 @@
     "size": 6,
     "threeStepSize": 0,
     "displayName": [
-	"DO328"
+	"DO328",
+	"DO328 General Aviation"
 	],
     "iCAOCode": ["D328"],
     "manufacturer": ["Dornier Flugzeugwerke"],
@@ -50,7 +53,7 @@
     "cleaningPoints": [0],
     "cateringPoints": [0],
     "sonicBoom": [false],
-    "vIP": [false],
+    "vIP": [false,true],
     "combi": [false],
     "cargo": [
 	false

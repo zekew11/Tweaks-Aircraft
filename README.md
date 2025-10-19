@@ -1,7 +1,6 @@
 # TweaksAircraft
 Aircraft Pack For Use With ACEO Tweaks
 
-
 ### New Types
 
 * A300 Family
@@ -25,14 +24,16 @@ Aircraft Pack For Use With ACEO Tweaks
     * -400
     * -400F
     * -500	
+* Comac C909
+    * CCF
 * Comac C919
-* DC1
-* DC2
+* DC1  (GA Possible)
+* DC2  (GA Possible)
 * DC4 Family
     * -F
 	* Canadair Northstar
 	* Aviation Traders ATL-98 Carvair
-* DC5
+* DC5 (GA Possible)
 * DC6 Family
     * -A
     * -B
@@ -65,12 +66,25 @@ Aircraft Pack For Use With ACEO Tweaks
     * -72
 		* -72F
     * -73
-		* -73F     
+		* -73F
+* DC9 Family
+    * -10
+		* -10C	
+    * -20
+    * -30
+		* -33AF
+    * -40
+    * -50
 * DC10
 	* 10F
 * Dornier 328 Family
     * DO328
+	* DO328GA (For GA Only)
 	* DO328Jet
+	* DO328Jet (For GA Only)
+* Embraer EMB 120 Brasilia
+    * -FC (Cargo)
+	* -GA (For GA Only)
 * Embraer ERJ Family
     * ERJ 135
     * Legacy 600
@@ -78,15 +92,17 @@ Aircraft Pack For Use With ACEO Tweaks
     * ERJ 145
     * ERJ 145XR
 * Grumann G-21 Goose
-    * G-21A
-    * G-21G	
+    * G-21A  (GA Possible)
+    * G-21G	 (GA Possible)
 * JU52 Family
-	* JU52/m1
+	* JU52/m1 (GA Possible)
 	* JU52/m3
-	* Amiot AAC.1
-	* Casa C-352
-	* Casa C-352L
-* Pilatus PC6	
+	* Amiot AAC.1 (GA Possible)
+	* Casa C-352 (GA Possible)
+	* Casa C-352L (GA Possible)
+* Piaggio P.180 Avanti (GA Possible)
+* Pilatus PC6
+	* GA (For GA Only)
 
 ### New Variants
 
@@ -160,10 +176,10 @@ Aircraft Pack For Use With ACEO Tweaks
 	* -300QT
 	* -Avro RJ100
 * Challenger 600 Series
-    * 601
-    * 604
-    * 605 
-    * 650
+    * 601 (GA Possible) 
+    * 604 (GA Possible)
+    * 605 (GA Possible)
+    * 650 (GA Possible)
 * Cessna 208B Grand Caravan
 	* Super Cargomaster
 * CRJ Family
@@ -212,7 +228,6 @@ Note that you need to change "aircraftType" in liveryData.json. Ask ACEO Modding
 * ATR72
     * -Freighter	
 * An148
-* AS350
 * B377
 * B707-320
 * B737-600
@@ -255,11 +270,9 @@ Note that you need to change "aircraftType" in liveryData.json. Ask ACEO Modding
 	* -200QT
 	* Avro RJ85
 * Baron 58
-* Bell 206
 * Cessna 182
 * Cessna 208
 	* Cargomaster
-* CH47	
 * Comet4
 * Concorde
 * CRJ 200
@@ -271,10 +284,10 @@ Note that you need to change "aircraftType" in liveryData.json. Ask ACEO Modding
 	* Challenger 850
 * CRJ 700
 * DC 3
-    * DC 3
+    * DC3 (GA Possible)
     * -combi
     * -cargo
-    * Li 2
+    * Li2 (GA Possible)
 * DHC6
 * Embraer E-Jet Family
     * E170
@@ -287,7 +300,7 @@ Note that you need to change "aircraftType" in liveryData.json. Ask ACEO Modding
 * Fokker 70/100
     * 70
     * 100	
-* Ford Trimotor
+* Ford Trimotor (GA Possible)
 * L1049
 * LJ75
 * MD11
@@ -306,8 +319,6 @@ Note that you need to change "aircraftType" in liveryData.json. Ask ACEO Modding
 * Dash Q Family
      * Q300
      * Q400
-* R44
-* S92	 
 * SAAB340
     * -Freighter		 
 * SF50
@@ -317,3 +328,80 @@ Note that you need to change "aircraftType" in liveryData.json. Ask ACEO Modding
 * Tu154
 * VC10
 * WT9
+
+#### Helicopters
+
+* AS350
+* Bell 206
+* CH47	
+* R44
+* S92	
+
+# Tweaks General Aviation Overview
+
+This list of aircraft changes is for General Aviation Aircrafts.
+
+*When no dedicated GA Aircraft is present, it will spawn all available liveries randomly.
+
+### Vanilla GA
+
+*No changes needed, spawn all available liveries from airlines too
+
+* Baron 58
+* Cessna 182
+* LJ75
+* PA28
+* PC12
+* PC24
+* Piper Cub
+* SF50
+* WT9
+
+### Vanilla Helicopter GA
+
+*No changes needed, spawn all available liveries from airlines too
+
+* AS350
+* Bell 206
+* R44
+
+### additional Vanilla GA
+
+*only available with aircraft framework, spawn all available liveries from airlines too
+
+* DC3
+* Ford Trimotor
+
+### Tweaks Aircrafts as GA
+
+*will spawn all available liveries from airlines too
+
+* DC1
+* DC2
+* Li2
+* DC5
+* CL601
+* CL604
+* CL605
+* CL650
+* G-21A
+* G-21G
+* JU52m1
+* JU52m3
+* AAC1
+* C-352
+* C-352L
+* P180
+
+### Tweaks Aircrafts with additional GA variant
+
+*will spawn if GA livery is present
+
+* DO328GA
+* DO328JetGA
+* EMB120GA
+* PC6GA
+
+
+
+

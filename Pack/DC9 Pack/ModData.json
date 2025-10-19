@@ -1,0 +1,11 @@
+{
+    "id": "f478b286-77eb-4212-8eae-ec0ddd9ec0d7",
+    "publishedFileId": 0,
+    "name": "Aircraft Pack: DC9",
+    "description": "Brings DC9-10/-10C/-20/-30/-33AF/-40/-50 to ACEO. Not functional without ACEOTweaks-Core and ACEOTweaks-Aircraft. This aircrafts will only spawn from airline mods which include them. \n \n Known Issue: Cleaning Truck will still spawn at the back and do not have enough space between wing and engine to attach",
+    "author": "dawed",
+    "version": "0",
+    "iconFileName": "Logo.png",
+    "modType": "",
+    "tags": ["Aircraft"]
+}

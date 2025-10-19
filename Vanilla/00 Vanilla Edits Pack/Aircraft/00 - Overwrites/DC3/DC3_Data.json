@@ -2,6 +2,7 @@
 	"id": [
 		"DC3","DC3C","DC3F","LI2"
 	],
+	"isGeneralAviation": [true,false,false,true],		
 	"copyFrom": "DC3",
 	"numEngines": 2,
 	"wingSpan_M": 29,

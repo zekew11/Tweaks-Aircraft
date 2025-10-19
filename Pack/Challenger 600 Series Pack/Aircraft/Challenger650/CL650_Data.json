@@ -6,6 +6,7 @@
 		"CL650"
 
 	],
+	"isGeneralAviation": [true,true,true,true],	
 	"copyFrom": "CRJ200",
 	"numEngines": 2,
 	"wingSpan_M": 19.6,

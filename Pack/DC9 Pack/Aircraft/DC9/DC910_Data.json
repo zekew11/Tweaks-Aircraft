@@ -1,0 +1,117 @@
+{
+	"id": [
+		"DC910","DC910C"
+	],
+	"copyFrom": "MD80",
+	"numEngines": 2,
+	"wingSpan_M": 27.25,
+	"length_M": 31.82,
+	"forcedReScale" : 0.9937,
+	"size": 5,
+	"threeStepSize": 1,
+	"displayName": [
+		"DC-9-10","DC-9-10C"
+	],
+	"iCAOCode": [
+		"DC91"
+	],
+	"manufacturer": [
+		"Douglas Aircraft Company"
+	],
+	"numBuilt": [
+		113,24
+	],
+	"yearIntroduced": [
+		1965
+	],
+	"yearLastProduced": [
+		1968
+	],
+	"yearRetired": [
+		2030
+	],
+	"capacity_PAX": [
+		90,1
+	],
+	"exitLimit_PAX": [
+		109,1
+	],
+	"seatsAbreast": [
+		5
+	],
+	"capacityULDLowerDeck": [
+		0,6
+	],
+	"capacityULDUpperDeck": [
+		0
+	],
+	"capacityBulkCargo_KG": [
+		1800,7618
+	],
+	"range_KM": [
+		2400
+	],
+	"speed_KMH": [
+		897
+	],
+	"etops_Minutes": [
+		60
+	],
+	"fuelCapacity_L": [
+		9750
+	],
+	"engineType": [
+		"low_turbofan"
+	],
+	"takeoffDistance_M": [
+		2050
+	],
+	"maxTOW_KG": [
+		41141
+	],
+	"needStairs": [
+		false
+	],
+	"needPushback": [
+		false
+	],
+	"needPaved": [
+		true
+	],
+	"needHeavyPaved": [
+		false
+	],
+	"canGetPushback": [
+		true
+	],
+	"jetbridgePoints": [
+		2
+	],
+	"conveyerPoints": [
+		0
+	],
+	"cleaningPoints": [
+		0
+	],
+	"cateringPoints": [
+		1
+	],
+	"sonicBoom": [
+		false
+	],
+	"vIP": [
+		false
+	],
+	"combi": [
+		false
+	],
+	"cargo": [
+		false,true
+	],
+	"loud": [
+		true
+	],
+	"quiet": [
+		false
+	]
+}

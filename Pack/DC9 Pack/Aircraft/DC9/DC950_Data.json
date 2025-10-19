@@ -1,0 +1,117 @@
+{
+	"id": [
+		"DC950"
+	],
+	"copyFrom": "MD80",
+	"numEngines": 2,
+	"wingSpan_M": 28.45,
+	"length_M": 40.74,
+	"forcedReScale" : 0.9872,
+	"size": 4,
+	"threeStepSize": 1,
+	"displayName": [
+		"DC-9-50"
+	],
+	"iCAOCode": [
+		"DC95"
+	],
+	"manufacturer": [
+		"Douglas Aircraft Company"
+	],
+	"numBuilt": [
+		96
+	],
+	"yearIntroduced": [
+		1975
+	],
+	"yearLastProduced": [
+		1981
+	],
+	"yearRetired": [
+		2015
+	],
+	"capacity_PAX": [
+		135
+	],
+	"exitLimit_PAX": [
+		139
+	],
+	"seatsAbreast": [
+		5
+	],
+	"capacityULDLowerDeck": [
+		0
+	],
+	"capacityULDUpperDeck": [
+		0
+	],
+	"capacityBulkCargo_KG": [
+		2200
+	],
+	"range_KM": [
+		2400
+	],
+	"speed_KMH": [
+		897
+	],
+	"etops_Minutes": [
+		60
+	],
+	"fuelCapacity_L": [
+		9713
+	],
+	"engineType": [
+		"low_turbofan"
+	],
+	"takeoffDistance_M": [
+		2100
+	],
+	"maxTOW_KG": [
+		54885
+	],
+	"needStairs": [
+		false
+	],
+	"needPushback": [
+		false
+	],
+	"needPaved": [
+		true
+	],
+	"needHeavyPaved": [
+		false
+	],
+	"canGetPushback": [
+		true
+	],
+	"jetbridgePoints": [
+		2
+	],
+	"conveyerPoints": [
+		0
+	],
+	"cleaningPoints": [
+		0
+	],
+	"cateringPoints": [
+		1
+	],
+	"sonicBoom": [
+		false
+	],
+	"vIP": [
+		false
+	],
+	"combi": [
+		false
+	],
+	"cargo": [
+		false
+	],
+	"loud": [
+		true
+	],
+	"quiet": [
+		false
+	]
+}

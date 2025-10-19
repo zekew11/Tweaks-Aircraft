@@ -1,0 +1,117 @@
+{
+	"id": [
+		"C909","C909CCF"
+	],
+	"copyFrom": "MD80",
+	"numEngines": 2,
+	"wingSpan_M": 27.28,
+	"length_M": 33.46,
+	"forcedReScale" : 0.9940,
+	"size": 4,
+	"threeStepSize": 1,
+	"displayName": [
+		"C909","C909CCF"
+	],
+	"iCAOCode": [
+		"AJ27"
+	],
+	"manufacturer": [
+		"Comac"
+	],
+	"numBuilt": [
+		169,2
+	],
+	"yearIntroduced": [
+		2007
+	],
+	"yearLastProduced": [
+		2040
+	],
+	"yearRetired": [
+		2060
+	],
+	"capacity_PAX": [
+		78,1
+	],
+	"exitLimit_PAX": [
+		90,1
+	],
+	"seatsAbreast": [
+		5
+	],
+	"capacityULDLowerDeck": [
+		0,7
+	],
+	"capacityULDUpperDeck": [
+		0
+	],
+	"capacityBulkCargo_KG": [
+		1800,9467
+	],
+	"range_KM": [
+		3700
+	],
+	"speed_KMH": [
+		828
+	],
+	"etops_Minutes": [
+		60
+	],
+	"fuelCapacity_L": [
+		9054
+	],
+	"engineType": [
+		"low_turbofan"
+	],
+	"takeoffDistance_M": [
+		1900
+	],
+	"maxTOW_KG": [
+		43500
+	],
+	"needStairs": [
+		false
+	],
+	"needPushback": [
+		false
+	],
+	"needPaved": [
+		true
+	],
+	"needHeavyPaved": [
+		false
+	],
+	"canGetPushback": [
+		true
+	],
+	"jetbridgePoints": [
+		2
+	],
+	"conveyerPoints": [
+		0
+	],
+	"cleaningPoints": [
+		0
+	],
+	"cateringPoints": [
+		1
+	],
+	"sonicBoom": [
+		false
+	],
+	"vIP": [
+		false
+	],
+	"combi": [
+		false
+	],
+	"cargo": [
+		false,true
+	],
+	"loud": [
+		true
+	],
+	"quiet": [
+		false
+	]
+}

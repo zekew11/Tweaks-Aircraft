@@ -1,5 +1,6 @@
 {
     "id": ["JU52m1"],
+	"isGeneralAviation": [true],	
     "copyFrom": "FORDTRI",
     "numEngines": 1,
     "wingSpan_M": 29.25,
